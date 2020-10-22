@@ -1,0 +1,2 @@
+# EmailAnalysisVisualisation
+Email Analysis And Visualisation And This project is Build on Python.The first part of my project deals with email-related tasks in a programmatic manner like retrieving e-mails,organising and reading emails.On the other hand,second part of my project is to know who emails you the most,  what does your traffic look like in a diagramatic way so it can be easy to understand by non-technical user also.
